@@ -1,0 +1,1 @@
+Esse projeto é uma forma de relembrar meus conhecimentos de HTML e CSS básicos
